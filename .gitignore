@@ -1,0 +1,14 @@
+# virtual environment – never commit
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# pytest cache
+.pytest_cache/
+
+# editor / OS
+.DS_Store
+.idea/
+*.swp
